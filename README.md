@@ -14,7 +14,7 @@ This is Task 1 " Basic Banking System " of The Spark Foundation under their #GRI
 4. JAVASCRIPT
 
 To run this project click on the link below:
-
+https://honey-dev.github.io/Basic_Banking_website/
 
 Flow of the Website: Home Page > Online services > Send Money > Read reciever name and sender name > Send Money > View Transfer History.
 
