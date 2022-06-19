@@ -5,18 +5,14 @@
 
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    /* background-color: rgb(222, 248, 169); */
     background-color: rgb(234, 217, 220);
 
 }
 
 /* navbar css starts here  */
 .bg-light {
-    /* background-color: #9eec6a !important; */
-    /* background-color: rgb(223, 46, 146) !important; */
     background-color: rgb(35, 33, 35) !important;
     position: sticky;
-    /* color: rgb(223, 46, 146) !important; */
     top: 0;
     cursor: pointer;
 }
@@ -31,19 +27,13 @@ body {
 }
 
 .navbar-brand {
-    /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
-
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 1.5rem;
     font-weight: bold;
-    /* color: rgb(223, 46, 146) !important; */
     color: white !important;
-    /* color: black !important; */
 }
 
 .nav-link {
-    /* color: black !important; */
-    /* color: rgb(223, 46, 146) !important; */
     color: white !important;
     font-family: 'Noto Sans JP', sans-serif;
     font-size: 1rem !important;
@@ -52,7 +42,6 @@ body {
 
 
 .nav-link:hover {
-    /* color: rgb(31, 175, 252) !important; */
     color: palevioletred !important;
 }
 
@@ -68,8 +57,6 @@ body {
 
 .btn-info {
     padding: 1rem 1.2rem;
-
-    /* background-color: rgb(36, 249, 93) !important; */
     background-color: #3E282BFF !important;
     color: white !important;
     margin-left: 5px;
@@ -82,8 +69,6 @@ body {
 }
 
 .table-danger1 {
-    /* background-color: #37ff8d; */
-    /* background-color: rgb(215, 132, 159); */
     background-color: #3E282BFF !important;
     color: #f9f3f3;
 }
@@ -93,7 +78,6 @@ h1{
 }
 
 .color {
-    /* color: black !important; */
     color: white !important;
     font-size: 15px !important;
 }
